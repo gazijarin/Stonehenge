@@ -1,7 +1,5 @@
 """
 The GameState superclass.
-
-NOTE: You do not have to run python-ta on this file.
 """
 from typing import Any
 
