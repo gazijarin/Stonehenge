@@ -1,8 +1,5 @@
 """
 Class GameTree module for iterative minimax.
-
-NOTE: The class has been customized from an already Tree module given
-to us in lecture files.
 """
 from typing import List, Union, Any
 
