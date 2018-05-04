@@ -1,9 +1,5 @@
 """
 A module for strategies.
-
-NOTE: Make sure this file adheres to python-ta.
-Adjust the type annotations as needed, and implement both a recursive
-and an iterative version of minimax.
 """
 from typing import Any, Union
 from game import Game
